@@ -5,7 +5,7 @@
 		<author>TeamWin</author>
 		<title>TWRP</title>
 		<description>splash screen</description>
-		<themeversion>2</themeversion>
+		<themeversion>3</themeversion>
 	</details>
 
 	<resources>
@@ -19,7 +19,7 @@
 		<variable name="screen_height" value="1920"/>
 		<variable name="background_color" value="#222222"/>
 		<variable name="header_color" value="#555555"/>
-		<variable name="accent_color" value="#0090CA"/>
+		<variable name="accent_color" value="#5b5bff"/>
 	</variables>
 
 	<pages>
