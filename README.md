@@ -1,4 +1,4 @@
-# Coalfield Theme For TWRP v3.1.x   
+# Coalfield Theme For TWRP v3.1.x - v3.2.x  
 This theme is inspired from popular ~~Cyanogen~~ ***LineageOS*** + ***Substratum*** theme: **Coalfield**      
   
 **Screenshots:**  
